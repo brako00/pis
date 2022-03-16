@@ -6,5 +6,9 @@ namespace bruna_lab
 {
     class Class1
     {
+        public int value ()
+        {
+            return 3; 
+        }
     }
 }
